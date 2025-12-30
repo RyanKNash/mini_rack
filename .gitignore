@@ -1,0 +1,98 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source because
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs and editors #
+####################
+## IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+## Eclipse
+.classpath
+.project
+.settings/
+
+## VSCode
+.vscode/
+
+# Build directories #
+#####################
+/bin/
+/out/
+/target/
+/build/
+dist/
+
+# Maven #
+#########
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# Gradle #
+##########
+.gradle/
+build/
+
+# Node.js #
+###########
+node_modules/
+
+# Python #
+##########
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Others #
+#########
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.cache
+.sass-cache
+.venv
+Notes.txt
