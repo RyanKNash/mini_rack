@@ -27,7 +27,6 @@ Example contents (edit IP/user):
   ]
 }
 
-
 3) Create a dedicated user (recommended)
 sudo useradd -r -s /usr/sbin/nologin -d /var/lib/labtools labtools 2>/dev/null || true
 sudo mkdir -p /var/lib/labtools
